@@ -8,15 +8,13 @@
 <a href="https://github.com/paiss"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/paisss/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
+<a href="https://github.com/paisss/followers"><img title="Followers" src="https://img.shields.io/github/followers/paisss?color=blue&style=flat-square"></a>
 <a href="https://github.com/paisss/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/paisss/BettyBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/paisss/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/paisss/BettyBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/paisss/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/paisss/BettyBOT?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://twitter.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://instagram.com/mfa_daffa"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </P>
 
 ## Information
